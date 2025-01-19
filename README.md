@@ -35,7 +35,7 @@ The project involves:
 
 ## **Network Topology**
 
-![Network Topology](path/to/topology-image.png)
+![Network Topology](topologie.png)
 
 - **Apache Servers**:
   - Server Web 1: `192.168.2.13`
@@ -176,7 +176,3 @@ The project involves:
 ## **Conclusion**
 
 This project demonstrates the effectiveness of redundancy and high availability in network configurations. The use of Apache, HAProxy, and Keepalived ensures uninterrupted service, even during system failures. Future improvements could include advanced monitoring or scaling mechanisms.
-
----
-
-Feel free to ask if you need help with GitHub commands or anything else!
